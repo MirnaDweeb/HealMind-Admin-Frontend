@@ -1,10 +1,6 @@
 # HealMind — Admin Frontend
 
 A production-ready **Admin Dashboard** frontend for HealMind, a mental health support platform.
-This repository contains **only the Admin Frontend** (no backend, no patient/doctor apps).
-
-Built with React 18, React Router DOM, Bootstrap 5, CSS Modules, Axios, and Font Awesome icons, following the "Serene Path" design system (forest-green, minimalist-organic, calm and professional).
-
 ---
 
 ## Features
